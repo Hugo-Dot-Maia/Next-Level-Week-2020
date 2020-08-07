@@ -10,6 +10,7 @@
     fields.forEach(function(field) {
         field.value = ""
     });
-
+    //Teste
+    
     document.querySelector('#schedule-items').appendChild(newFieldContainer)
  }
